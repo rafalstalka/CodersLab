@@ -2,10 +2,10 @@
 public class CodersLab {
 
 	public static void main(String[] args) {
-		System.out.print("Dzisiaj zaczynam kurs");
-		System.out.print("języka JAVA");
-		System.out.print("w CodersLab");
-
+		System.out.println("Dzisiaj zaczynam kurs");
+		System.out.println("języka JAVA");
+		System.out.println("w CodersLab");
+// Za pomocą funkcji print umieszczone zostało wszystko w jednej lini dodając ln umieszczamy kazdy fragment w osobnej linii
 	}
 
 }
